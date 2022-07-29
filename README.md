@@ -7,5 +7,6 @@ The posters of the similar movies are fetched using an API by TMDB.
 
 ### Demo
 
-https://user-images.githubusercontent.com/56452679/164789479-6482859d-e31c-4fec-b49d-1ca05fae6b54.mp4
+[movie_recomm.webm](https://user-images.githubusercontent.com/56520820/181700616-0638ae3d-4751-48ab-ba8f-a94592a82ba9.webm)
+
 
